@@ -1,0 +1,11 @@
+.metadata
+.settings
+.classpath
+.project
+__pycache__
+.DS_Store
+bin
+target
+tmp
+bachelor-thesis_Jakob_Steinberg*
+n32rules
